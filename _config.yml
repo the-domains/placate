@@ -2,6 +2,7 @@ name: Placate
 favicon: null
 layout_spectrum: 0.5862870309501886
 typography_spectrum: 0.6846969099715352
+title: Events that manage themselves
 cta:
   domain: null
   bucket: null
